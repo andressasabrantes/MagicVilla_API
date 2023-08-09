@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DOPRNgaHbnoZ2s6+W/nEuECoOhZLxKuyLHri+EBwWoTFX6qANigagyFoTch4Uv/4Pu/gYhN+kp8FzXnBUgZGUg==",
+  "dgSpecHash": "ChkHete9hYjtWnRjpu6CEixtEYzbFmXeiP4AScgs3sl2x6pv8oJs358VCpx1jLHQjKAxdI3uq+MeREEQ5BTDyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\source\\repos\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
