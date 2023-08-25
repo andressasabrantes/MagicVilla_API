@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UIvcLQxh/CzDArN7cQ0WvC5qJaaNKB5x8AC1UFowCH9UR2PcK+Xs9GAOoIWXAceaeFB+LorEaxqmoDnNQPgYgw==",
+  "dgSpecHash": "we9GY8XisVWC3NB+lw6vzaCsJ8rF8Jv12WncdoITb1kOth++xbIFO4YB1JDjQFfIdS9xdoGmiO6VMKJi/8RCmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\MagicVilla\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\MagicVilla_API\\MagicVilla_VillaAPI\\MagicVilla_VillaAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.10\\microsoft.aspnetcore.jsonpatch.7.0.10.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.10\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.10.nupkg.sha512",
